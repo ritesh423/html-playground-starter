@@ -8,6 +8,11 @@
 
 ![Mobile-look](https://user-images.githubusercontent.com/74403818/193744811-a6f62f2e-2b0a-4916-98a2-8068279dcb4a.png)
 
+## Netflix Navbar Video
+
+https://user-images.githubusercontent.com/74403818/193806211-cd9149c7-ff64-4c26-b9b0-ef48ba16d1b8.mp4
+
+
 ## Hello developer!
 
 This is one of the many projects available on [codedamn](https://codedamn.com/projects) to reinforce your learning by building. If you want to become a full stack developer and learn by practicing, feel free to attempt this challenge. Feel free to check out the codedamn [Full Stack Web Development Learning Path](https://codedamn.com/learning-paths/fullstack) to learn more about how to become an awesome full stack developer.
