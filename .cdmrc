@@ -1,3 +1,3 @@
-tabs: ["index.html"]
+tabs: ["index.html", "README.md"]
 terminal-one: static-server -p 1337 --no-cache
 live-reload-browser: true
